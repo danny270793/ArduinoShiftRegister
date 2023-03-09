@@ -15,7 +15,7 @@ void loop() {
     delay(1000);
   }
   for (int i = 0; i < 8; i++) {
-    shifter.digitalwrite(i, LOW);
+    shifter.digitalWrite(i, LOW);
     delay(1000);
   }
 }
