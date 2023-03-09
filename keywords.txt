@@ -1,0 +1,6 @@
+ShiftRegister	KEYWORD1
+
+begin	KEYWORD2
+digitalwrite	KEYWORD2
+shiftData	KEYWORD2
+clean	KEYWORD2
