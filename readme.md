@@ -1,25 +1,24 @@
 # ShiftRegister
 
+This library can convert decimal numbers to binary and write out into shift registers
+
 ## Instalation
 
 Download code as zip from github
 
-![Download github repo](https://github.com/danny270793/ArduinoShiftRegister/blob/master/images/001 - download code.png)
+![Download github repo](https://github.com/danny270793/ArduinoShiftRegister/blob/master/images/001_download_code.png)
 
 Go to "add .ZIP library"
 
-![Download github repo](https://github.com/danny270793/ArduinoShiftRegister/blob/master/images/002 - add library.png)
+![Download github repo](https://github.com/danny270793/ArduinoShiftRegister/blob/master/images/002_add_library.png)
 
 Now you can open examples from the library
 
-![Download github repo](https://github.com/danny270793/ArduinoShiftRegister/blob/master/images/003 - open example.png)
+![Download github repo](https://github.com/danny270793/ArduinoShiftRegister/blob/master/images/003_open_example.png)
 
 Then you have library installed
 
-![Download github repo](https://github.com/danny270793/ArduinoShiftRegister/blob/master/images/004 - example.png)
-
-
-This library can convert decimal numbers to binary and write out into shift registers
+![Download github repo](https://github.com/danny270793/ArduinoShiftRegister/blob/master/images/004_example.png)
 
 ## Follow me
 
