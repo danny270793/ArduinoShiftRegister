@@ -28,7 +28,7 @@ Then you have library installed
 
 ## LICENSE
 
-Licensed under the [MIT](license.md) License.
+Licensed under the [MIT](license.md) License
 
 ## Version
 
