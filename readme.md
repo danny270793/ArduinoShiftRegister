@@ -26,8 +26,12 @@ Then you have library installed
 - [Github](https://www.github.com/danny270793/)
 - [LinkedIn](https://www.linkedin.com/in/danny270793)
 
+## LICENSE
+
+Licensed under the [MIT](license.md) License.
+
 ## Version
 
 ShiftRegister version 1.0.0
 
-Last update 09/03/2023
+Last update 10/03/2023
